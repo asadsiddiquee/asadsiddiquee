@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding and Gaming
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking forward to work as ... a FronEnd WebDeveloper
-- 📫 How to reach me ... Mail me
+- 📫 How to reach me ... www.asadsidq.com
 
 <!---
 asadsiddiquee/asadsiddiquee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
