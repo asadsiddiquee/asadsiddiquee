@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asadsiddiquee
 - 👀 I’m interested in ... Coding and Gaming
-- 💞️ I know HTML, CSS, SASS, JavaScript
-- 🌱 I’m currently learning ... React JS , NextJS, GatsbyJS & Advanced Javascript
+- 💞️ I know HTML, CSS, SASS, JavaScript, React JS , NextJS, GatsbyJS
+- 🌱 I’m currently learning ... Rust
 
 
 <!---
