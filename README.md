@@ -4,10 +4,10 @@
 
 I am from Bangladesh, currently living in Poland.  
 
-Skills: HTML / CSS / JAVASCRIPT / REACT / NEXTJS / NODEJS / MONGODB / EXPRESS 
+Skills: HTML / CSS / JAVASCRIPT / REACTJS / NEXTJS / 
 
 - 🔭 I’m currently working on Research Project and Web Project 
-- 🌱 I’m currently learning Rust language 
+- 🌱 I’m currently learning NODEJS, MONGODB, EXPRESS, Rust language 
 - 📫 How to reach me: www.asadsidq.com 
 
 
