@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Asad Siddiquee
 #### I am a Research Assistant and a self-taught web developer
-![I am a Research Assistant and a web developer](https://pbs.twimg.com/profile_images/1481006358451429381/U4PPU_6b_400x400.jpg)
+![I am a Research Assistant and a web developer](https://ibb.co/m4Fbw0Y)
 
 I am from Bangladesh, currently living in Poland.  
 
