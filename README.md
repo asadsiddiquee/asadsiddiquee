@@ -1,13 +1,11 @@
 ### Hi there 👋, I am Asad Siddiquee
 #### I am a Research Assistant and a self-taught web developer
-![I am a Research Assistant and a web developer]()
 
 I am from Bangladesh, currently living in Poland.  
 
-Skills: HTML / CSS / JAVASCRIPT / REACTJS / NEXTJS / 
+Skills: HTML / CSS / JAVASCRIPT / REACTJS / NEXTJS / GATSBYJS / TAILWINDCSS / CONTENTFUL / STRAPI / GRAPHCMS / SANITY
 
 - 🔭 I’m currently working on Research Project and Web Project 
-- 🌱 I’m currently learning NODEJS, MONGODB, EXPRESS, Rust language 
 - 📫 How to reach me: www.asadsidq.com 
 
 
