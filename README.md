@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Asad Siddiquee
-#### I am a Research Assistant and a Freelance web developer
+#### I am a Research Assistant , a web developer and entrepreneur 
 
 I am from Bangladesh, currently living in Poland.  
 
