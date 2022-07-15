@@ -3,9 +3,9 @@
 
 I am from Bangladesh, currently living in Poland.  
 
-Skills: HTML / CSS / JAVASCRIPT / REACTJS / NEXTJS / GATSBYJS / MONGODB / TAILWINDCSS / CONTENTFUL / STRAPI / GRAPHCMS / SANITY / MDX
+Skills: HTML / CSS / JAVASCRIPT / REACTJS / NEXTJS / MONGODB / TAILWINDCSS / CONTENTFUL / STRAPI / GRAPHCMS / SANITY / MDX
 
-- 🔭 I’m currently working on Research Project and Web Project 
+- 🔭 I’m currently working on My Research Project and Making Project for my own business and clients 
 - 📫 How to reach me: www.asadsidq.com 
 
 
