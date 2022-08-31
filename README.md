@@ -3,8 +3,10 @@
 
 I am from Bangladesh, currently living in Poland.  
 
-Skills: HTML / CSS / JAVASCRIPT / REACTJS / NEXTJS / MONGODB / TAILWINDCSS / CONTENTFUL / STRAPI / GRAPHCMS / SANITY / MDX
+Skills: HTML / CSS / JAVASCRIPT / REACTJS / NEXTJS / MONGODB / TAILWINDCSS / CONTENTFUL / STRAPI / GRAPHCMS / SANITY / MDX.
+
 Currently Learning: Ruby > Ruby on Rails > Elixir
+
 - 🔭 I’m currently working on My Research and Making Project for my  clients 
 - 📫 How to reach me: www.asadsidq.com 
 
