@@ -5,7 +5,7 @@ I am from Bangladesh, currently living in Poland.
 
 ## FrontEnd - HTML, CSS, JAVASCRIPT, REACTJS, TAILWINDCSS 
 ## Backend -  NodeJs, ExpressJs, MongoDB, 
-### Other - NextJS, Strapi
+### Other - NextJS, Strapi, MDX
 ### OS - Linux mint
 ### IDE - Visual Studio Code 
 
