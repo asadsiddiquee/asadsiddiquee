@@ -3,7 +3,11 @@
 
 I am from Bangladesh, currently living in Poland.  
 
-Skills: HTML / CSS / JAVASCRIPT / REACTJS / NEXTJS / MONGODB / TAILWINDCSS / CONTENTFUL / STRAPI / GRAPHCMS / SANITY / MDX.
+FrontEnd - HTML, CSS, JAVASCRIPT, REACTJS, TAILWINDCSS 
+Backend -  NodeJs, ExpressJs, MongoDB, 
+Other - NextJS, Strapi
+OS - Linux mint
+IDE - Visual Studio Code 
 
  
 
