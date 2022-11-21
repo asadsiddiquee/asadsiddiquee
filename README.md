@@ -3,11 +3,11 @@
 
 I am from Bangladesh, currently living in Poland.  
 
-FrontEnd - HTML, CSS, JAVASCRIPT, REACTJS, TAILWINDCSS 
-Backend -  NodeJs, ExpressJs, MongoDB, 
-Other - NextJS, Strapi
-OS - Linux mint
-IDE - Visual Studio Code 
+## FrontEnd - HTML, CSS, JAVASCRIPT, REACTJS, TAILWINDCSS 
+## Backend -  NodeJs, ExpressJs, MongoDB, 
+### Other - NextJS, Strapi
+### OS - Linux mint
+### IDE - Visual Studio Code 
 
  
 
