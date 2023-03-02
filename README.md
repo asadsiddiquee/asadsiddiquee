@@ -34,7 +34,7 @@ I am from Bangladesh, currently living in Poland.
 <!-- 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asadsiddiquee)   -->
 
-![GitHub metrics](https://metrics.lecoq.io/asadsiddiquee)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/asadsiddiquee)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=asadsiddiquee)  
 
