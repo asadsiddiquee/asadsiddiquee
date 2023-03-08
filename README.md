@@ -6,7 +6,7 @@ I am from Bangladesh, currently living in Poland.
 ## FrontEnd
 - HTML, CSS, JAVASCRIPT, REACTJS, NextJS, TAILWINDCSS
 ## Backend 
-- Elixir(learning), Phoenix(To-do), Ruby(To-do), Ruby on Rails(To-do)
+- NodeJS, Express, Elixir(learning), Phoenix(To-do)
 ## DataBase 
 - MongoDB, PostgreSQL(to-do)
 ### Other -
