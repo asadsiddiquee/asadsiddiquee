@@ -13,7 +13,7 @@ I am from Bangladesh, currently living in Poland.
 ### Other -
 -Strapi, MDX
 ### OS 
-- Windows 11 (main), Linux mint
+- Windows 11 , VM Ubuntu
 ### IDE 
 - Visual Studio Code 
 
