@@ -3,12 +3,13 @@
 
 I am from Bangladesh, currently living in Poland.  
 
+## Learning = {:Elixir, :Phoenix, :liveView, :postgresql}
 ## FrontEnd
 - HTML, CSS, JAVASCRIPT, REACTJS, NextJS, TAILWINDCSS
 ## Backend 
-- NodeJS, Express, Elixir(learning), Phoenix(To-do)
+- NodeJS, Express
 ## DataBase 
-- MongoDB, PostgreSQL(to-do)
+- MongoDB
 ### Other -
 -Strapi, MDX
 ### OS 
