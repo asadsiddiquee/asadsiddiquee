@@ -1,7 +1,6 @@
 ## Learning - Elixir, Phoenix, liveView, postgresql
-## FrontEnd - HTML, CSS, JAVASCRIPT, REACTJS, NextJS, TAILWINDCSS
+## FrontEnd - HTML, CSS, J̶A̶V̶A̶S̶C̶R̶I̶P̶T̶, R̶E̶A̶C̶T̶J̶S̶, N̶e̶x̶t̶J̶S̶ , TAILWINDCSS
 
-### Other -Strapi, MDX
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asadsiddiquee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asadsidq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asadsidq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/theultravoid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/asadsiddiquee)  
 
