@@ -16,4 +16,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=asadsiddiquee)  
 
-![Profile views](https://gpvc.arturio.dev/asadsiddiquee)  
+ 
