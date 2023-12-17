@@ -21,7 +21,7 @@
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadsiddiquee&show_icons=true&locale=en&layout=normal" alt="asadsiddiquee" /></p>
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadsiddiquee&show_icons=true&locale=en" alt="asadsiddiquee" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadsiddiquee&" alt="asadsiddiquee" /></p>
 
