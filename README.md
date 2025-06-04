@@ -13,7 +13,7 @@ While programming isn't my profession, it's a hobby that I thoroughly enjoy duri
 ### Backend 
 - Elixir, Phoenix 
 - SQL, Postgresql
-- 
+  
 ### Testing
 - ExUnit
 
