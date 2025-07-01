@@ -2,9 +2,8 @@
 
 ## Professional Background
 I'm currently a researcher in academia.                                          
-While programming isn't my profession, it's a hobby that I thoroughly enjoy during my free time. Coding = Dopamine :)
-
-### Focused on Elixir, Phoenix, Liveview
+ 
+### Learning Elixir, Phoenix, Liveview
 
 ### Frontend 
 - Phoenix Liveview 
@@ -23,10 +22,7 @@ While programming isn't my profession, it's a hobby that I thoroughly enjoy duri
 ### Editor
 - VsCode
 
-## Personal Interests
-- Reading manga/manhwa/manhua (my perfect unwind activity)  
-- The joy of discovering elegant solutions to backend challenges  
-- Exploring how academic rigor translates to software architecture  
+ 
 
 
 <h3 align="left">Connect with me:</h3>
