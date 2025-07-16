@@ -6,7 +6,7 @@ I'm currently a researcher in academia.
 ### Learning Elixir, Phoenix, Liveview
 
 ### Frontend 
-- Phoenix Liveview 
+- Phoenix Liveview, React
 - Tailwind CSS, DaisyUI 
 
 ### Backend 
