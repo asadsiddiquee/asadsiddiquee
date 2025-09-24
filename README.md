@@ -1,6 +1,6 @@
 # About Me
 
-I'm currently an academic researcher. My professional journey has led me to explore a diverse set of technologies. I'm actively learning Elixir, Phoenix, and LiveView to expand my skill set. On the frontend, I'm proficient in Phoenix LiveView and React, styling interfaces with Tailwind CSS and DaisyUI. For backend development, I utilize Elixir and Phoenix, working with SQL and PostgreSQL databases. I primarily operate on Linux (Pop!_OS), which is based on Ubuntu, and my preferred code editor is VS Code.
+I'm currently an academic researcher. My professional journey has led me to explore a diverse set of technologies. I'm actively learning Elixir, Phoenix, and LiveView to expand my skill set. On the frontend, I'm proficient in Phoenix LiveView and React, styling interfaces with Tailwind CSS and DaisyUI. For backend development, I utilize Elixir and Phoenix, working with SQL and PostgreSQL databases. I primarily operate on Arch Linux (Omarchy) and my preferred code editor is VS Code.
  
 
 
