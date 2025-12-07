@@ -1,12 +1,14 @@
 # About Me
 
 I am a Research Assistant at Adam Mickiewicz University in the Laboratory of Aerobiology, and an aspiring backend developer with a diverse technical background. My degree in Electrical and Electronic Engineering provided a foundation in programming and problem-solving, and with environmental protection masters which I've since applied to my research work in data analysis. 
+
 For almost four years in the aerobiology lab, I've been responsible for the full research lifecycle. I collect biological samples, perform laboratory experiments (including protein analysis and ELISA), and conduct statistical analysis using R and Excel. I transform complex data into clear, compelling visualizations and presentations using R and Python. Effectively communicate findings to diverse audiences through seminars, webinars, and scientific conferences. 
+
 Parallel with my research, in my freetime i've been independently learning backend development, with a focus on Elixir and the Phoenix framework, including LiveView for building real-time applications. I'm also gaining experience with PostgreSQL database operations and developing APIs with Phoenix. 
 I am comfortable learning new impacful technologies and am genuinely interested in building reliable, well-designed systems.
 Based in Poland, I am open to remote, hybrid, in office opportunities.
 
-### I primarily operate on Arch Linux (Omarchy) and my preferred code editor is VS Code.
+#### I primarily operate on Arch Linux (Omarchy) and my preferred code editor is VS Code.
  
 
 
