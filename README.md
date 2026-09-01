@@ -1,12 +1,12 @@
 # About Me
 
-I am a Research Assistant at Adam Mickiewicz University in the Laboratory of Aerobiology, and an aspiring backend developer with a diverse technical background. My degree in Electrical and Electronic Engineering provided a foundation in programming and problem-solving, and with environmental protection masters which I've since applied to my research work in data analysis. 
+I’m a researcher at the Laboratory of Aerobiology at Adam Mickiewicz University, where I’m currently completing my PhD. For the past four years, I’ve been working with biological and environmental data, covering the full research process from sample collection and laboratory analysis to data processing, statistical analysis, visualization, publications, and conference presentations.
 
-For almost four years in the aerobiology lab, I've been responsible for the full research lifecycle. I collect biological samples, perform laboratory experiments (including protein analysis and ELISA), and conduct statistical analysis using R and Excel. I transform complex data into clear, compelling visualizations and presentations using R and Python. Effectively communicate findings to diverse audiences through seminars, webinars, and scientific conferences. 
+A large part of my work involves dealing with complex and often messy datasets. I use R and Python for analysis and visualization, develop reproducible workflows, and work with HYSPLIT for long-range atmospheric trajectory analysis.
 
-Parallel with my research, in my freetime i've been independently learning backend development, with a focus on Elixir and the Phoenix framework, including LiveView for building real-time applications. I'm also gaining experience with PostgreSQL database operations and developing APIs with Phoenix. 
-I am comfortable learning new impacful technologies and am genuinely interested in building reliable, well-designed systems.
-Based in Poland, I am open to remote, hybrid, in office opportunities.
+Outside of research, my main technical interest is backend development, particularly Elixir and Phoenix. I became interested in Elixir after watching Saša Jurić's presentation on Elixir and Erlang concurrency, specifically how the BEAM handles fault tolerance, process isolation, and building reliable, scalable systems. 
+
+I’m also interested in building B2B SaaS products. I like the idea of finding a specific problem that businesses actually have, building a focused solution around it, and taking it from an MVP to something people genuinely use.
 
 #### I primarily operate on Arch Linux (Omarchy) and my preferred code editor is VS Code.
  
